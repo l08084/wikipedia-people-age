@@ -1,0 +1,1 @@
+window.alert('wikipedia 開いたね！');
